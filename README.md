@@ -30,6 +30,7 @@ The last step is visit evey product page and gives necessary information about t
 
 ## Result
 
-In the end file, I get the CSV file with two column _MODEL_ and _DESCRIPTION_
+In the end file, I get the CSV file with two column __MODEL__ and __DESCRIPTION__
 
+![image](https://github.com/FuckingJester/Web_Scraper/assets/104007930/bad91ad6-f9d6-4a49-96a1-9dc9fdf39748)
 
